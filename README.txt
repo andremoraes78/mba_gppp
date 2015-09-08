@@ -17,10 +17,16 @@ git push -u origin master
 http://github.com/andremoraes78/mba_gppp.git
 
 //adiciona as alterações para commit
-git add
+git add *
 
 //commit as alterações 
 git commit -m "XXXXXXX"
 
 //Verifica alterações no repositorio
 git status
+
+//VErifica os commits que ja foram feitos no repositorio
+git log
+
+//Verifica com detalhes o que foi modificado no reposito
+git whatchanged
