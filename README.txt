@@ -15,3 +15,12 @@ git push -u origin master
 
 //Clona um repositorio local
 http://github.com/andremoraes78/mba_gppp.git
+
+//adiciona as alterações para commit
+git add
+
+//commit as alterações 
+git commit -m "XXXXXXX"
+
+//Verifica alterações no repositorio
+git status
